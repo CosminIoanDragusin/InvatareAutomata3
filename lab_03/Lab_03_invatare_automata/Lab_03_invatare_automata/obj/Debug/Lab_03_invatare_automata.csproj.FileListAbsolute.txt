@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\bin\Debug\Lab_03_invatare_automata.exe.config
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\bin\Debug\Lab_03_invatare_automata.exe
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\bin\Debug\Lab_03_invatare_automata.pdb
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\obj\Debug\Lab_03_invatare_automata.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\obj\Debug\Lab_03_invatare_automata.Form1.resources
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\obj\Debug\Lab_03_invatare_automata.Properties.Resources.resources
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\obj\Debug\Lab_03_invatare_automata.csproj.GenerateResource.cache
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\obj\Debug\Lab_03_invatare_automata.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\obj\Debug\Lab_03_invatare_automata.exe
+C:\Users\user\Desktop\invatare_automata\lab_03\Lab_03_invatare_automata\Lab_03_invatare_automata\obj\Debug\Lab_03_invatare_automata.pdb
